@@ -1,0 +1,34 @@
+{
+  "name": "exp-loader",
+  "version": "0.1.0",
+  "description": "Exp features loader for webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bluishoul/exp-loader.git"
+  },
+  "scripts": {
+    "example": "webpack --config example/webpack.config.js --progress"
+  },
+  "keywords": [
+    "exp",
+    "features",
+    "webpack",
+    "loader"
+  ],
+  "author": "bluishoul@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^0.2.16"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  },
+  "os": [
+    "darwin",
+    "linux"
+  ],
+  "engine": {
+    "node": ">=4.0.0"
+  }
+}
