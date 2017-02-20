@@ -19,7 +19,7 @@
   "author": "bluishoul@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "loader-utils": "^0.2.16"
+    "loader-utils": "^1.0.0"
   },
   "devDependencies": {
     "webpack": "^1.13.2"
