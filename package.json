@@ -22,7 +22,7 @@
     "loader-utils": "^1.0.0"
   },
   "devDependencies": {
-    "webpack": "^1.13.2"
+    "webpack": "^4.28.1"
   },
   "os": [
     "darwin",
